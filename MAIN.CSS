@@ -277,12 +277,12 @@ header label{
 
 /*--- only on mobile---*/
 
-@media(max-width: 771px){
+@media(max-width: 668px){
 header{
 	padding: 20px;
 }
 header .nav-bar ul li a{
-	font-size:  15px;
+	font-size:  20px;
     padding: 10px;
 }
 header label{
